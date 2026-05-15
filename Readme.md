@@ -130,12 +130,15 @@ Developed and deployed business websites for real-world clients.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jd-thakrar&show_icons=true&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jd-thakrar&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jd-thakrar&theme=github-dark-blue" height="170"/>
+<img src="https://streak-stats.demolab.com?user=jd-thakrar&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jd-thakrar&theme=tokyonight"/>
 
 </div>
-
 ---
 
 # 📫 Connect With Me
