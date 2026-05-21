@@ -20,7 +20,7 @@ Full Stack Developer • Competitive Programmer • Building real-world software
 ```ts
 const jeet = {
   education: "B.Tech Computer Engineering",
-  cgpa: "9.95",
+  cgpa: "9.98",
   
   focus: [
     "Full Stack Development",
